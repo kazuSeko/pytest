@@ -1,4 +1,4 @@
-from func_add import add
+from src.func_add import add
 
 def test_add_success():
     assert add(2,4) == 6
